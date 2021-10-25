@@ -1,2 +1,50 @@
 /* Journey to the Center of the Earth Practicum */
 /* Cody Yeck */
+
+
+header{
+    text-align:center;
+    border: color #765729;
+    border-width: thick;
+    border-radius: 15px 15px 0px 0px;
+    padding: .50em;
+    margin: .50em;
+    box-shadow: -20px -20px 50px;
+}
+
+nav{
+    text-align:center;
+    border-color: #765729;
+    border-width: thick;
+    padding: .50em;
+    margin: .50em;
+    box-shadow: -20px -20px 50px;
+}
+
+main{
+    border-color:#765729;
+    border-width: thick;
+    padding: .50em;
+    margin: .50em; 
+    box-shadow: -20px -20px 50px;
+}
+
+
+
+aside{
+    border-color:#765729;
+    border-width:thick;
+    padding: .50em;
+    margin: .50em;
+    box-shadow: -20px -20px 50px;
+}
+
+footer{
+    border: #765729;
+    border-width: thick;
+    border-radius: 0px 0px 15px 15px;
+    padding: .50em;
+    margin: .50em;
+    box-shadow: -20px -20px 50px
+}
+
