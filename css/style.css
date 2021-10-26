@@ -128,5 +128,23 @@ p:first-line{
 }
 
 
+@media screen and (min-width: 768px){
+    h1 {
+        font-size: 40px
+    }
+
+    figure {
+        text-align:center;
+    }
+    
+    /* columns not working? */
+    .submission {
+        flex-direction:column;
+    }
+
+}
+
+
+
 
 
